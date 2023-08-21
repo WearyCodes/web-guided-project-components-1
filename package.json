@@ -1,6 +1,7 @@
 {
   "name": "web-guided-project-components-1",
   "version": "1.0.0",
+  "type": "module",
   "scripts": {
     "start": "parcel src/index.html"
   },
